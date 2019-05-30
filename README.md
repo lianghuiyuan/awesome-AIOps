@@ -58,6 +58,7 @@
 * [google/CausalImpact, An R package for causal inference in time series](https://github.com/google/CausalImpact)
 * [时间序列分析之ARIMA](https://blog.csdn.net/u010414589/article/details/49622625)
 * [时间序列特征提取库tsfresh](https://github.com/blue-yonder/tsfresh)
+* [Yahoo EGADS : A Java package to automatically detect anomalies in large scale time-series data](https://github.com/yahoo/egads)
 * [Awesome Time Series Analysis and Data Mining](https://github.com/youngdou/awesome-time-series-analysis)
 
 ## Paper
@@ -81,4 +82,3 @@
 * 智能运维前沿（清华裴丹团队的）
 * AIOps智能运维（百度的）
 * 华为产品可服务能力（华为的）
-* 知乎专栏：[智能运维(AIOps)](https://zhuanlan.zhihu.com/awesome-AIOps)
